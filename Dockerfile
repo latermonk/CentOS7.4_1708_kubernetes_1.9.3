@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/pause-amd64:3.0
+FROM k8s.gcr.io/kube-apiserver-amd64:v1.9.x
