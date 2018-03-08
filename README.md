@@ -4,3 +4,6 @@ CentOS7.4_1708_kubernetes_1.9.3
 [https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm-init/](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm-init/)
 
 
+
+
+docker pull ibackchina2018/centos7.4_1708_kubernetes_1.9.3:apiserver-amd64_1.9.3
