@@ -5,7 +5,7 @@ CentOS7.4_1708_kubernetes_1.9.3
 
 
 
-## pull镜像打tag
+## pull镜像  && 镜像打tag
 
 kube-scheduler-amd64:v1.9.3  
 kube-proxy-amd64:v1.9.3   
