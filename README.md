@@ -16,7 +16,7 @@ pause-amd64:3.0
 etcd-amd64:3.1.10   
  
 
-####  apiserver-amd64_1.9.3
+####  kube-apiserver-amd64_1.9.3
 docker pull ibackchina2018/centos7.4_1708_kubernetes_1.9.3:apiserver-amd64_1.9.3
 
 
